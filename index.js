@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By Hiyakiru","Playing Hypixelb.minefort.com","Potato GANGGG"];
+const statusMessages = ["Made By Hiyakiru","Playing Hypixelb.minefort.com","Potato GANGG"];
 
 
 let currentIndex = 0;
